@@ -1,5 +1,5 @@
 @all
-Feature: Trigger functionality
+Feature: Adding highest price item to the cart
 
   @addToCart
   Scenario: Add product item with highest price to the cart
